@@ -2,7 +2,23 @@
 
 ###
 
-<p align="left">My name is Kevin Guido, a Full-stack Developer.</p>
+<p align="left">My name is Kevin Guido, a Software developer specialized in web development</p>
+
+###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<p align="left">If you want to connect, here are some ways to do it:</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/kevin-guido-urbina-2456aa280">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+</div>
 
 ###
 
